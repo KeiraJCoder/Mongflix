@@ -6,10 +6,10 @@
 
 <br>
 <b><b> --add --name "Insert movie name" --year 2010 --rating 8 </b><br><i>(adds new movie, year and your rating)</i>
-<br><b> --showAll</b><br>i>(shows all information from all movies currently stored in your database)</i>
+<br><b> --showAll</b><br></i>(shows all information from all movies currently stored in your database)</i>
 <br>
-<b>-find --name "name"</b><br>i>(finds name defined in the name field)</i>
-<br><b> --movieFindYear --year </b><br>i>(shows all movies in the database with the year specified)</i>
+<b>-find --name "name"</b><br></i>(finds name defined in the name field)</i>
+<br><b> --movieFindYear --year </b><br></i>(shows all movies in the database with the year specified)</i>
 <br><b>- -movieFindRating --rating </b><br></i>(shows all movies with the rating you enter)</i>
 <br><b>--updateMovieName --updateName "Old movie name" --newName "What you're updating to" </b><br></i>(does exactly what it says on the tin)</i>
 <br><b>--updateMovieYear --updateYear --newYear </b> <br></i>(same as before but using numerical symbols instead of strings)</i>
