@@ -1,9 +1,10 @@
-<i>Movie database using Mongo</i>
+<h1>Movie database using Mongo</h1>
+<br><br>
 
 
+<h2>Commands</h2>
 
-Commands
-
+<br>
 --add --name "Insert movie name" --year 2010 --rating 8 (adds new movie, year and your rating)
 
 --showAll (shows all information from all movies currently stored in your database)
@@ -21,5 +22,7 @@ Commands
 --updateMovieRating --updateRating --newRating (if you change your mind about what you thought of the movie after looking at rotten tomatoes)
 
 --movieDelete --name "name you want deleted" (Get rid of those movies you're ashamed of seeing....like any of the movies made after Transformers)
+
+
 
 (although, not gonna lie. I quite liked Bumblebee)
