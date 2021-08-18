@@ -23,6 +23,7 @@
 
 --movieDelete --name "name you want deleted" (Get rid of those movies you're ashamed of seeing....like any of the movies made after Transformers)
 
+<br><br><br><br>
+<p>
 
-
-(although, not gonna lie. I quite liked Bumblebee)
+(although, not gonna lie. I quite liked Bumblebee)</p>
