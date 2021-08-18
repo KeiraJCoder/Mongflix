@@ -6,7 +6,7 @@
 
 <br>
 <b><b> --add --name "Insert movie name" --year 2010 --rating 8 </b><br><i>(adds new movie, year and your rating)</i><br>
-<br><b> --showAll</b><br></i>(shows all information from all movies currently stored in your database)</i><br>
+<br><b> --showAll</b><br><i>(shows all information from all movies currently stored in your database)</i><br>
 <br>
 <b>-find --name "name"</b><br><i>(finds name defined in the name field)</i><br>
 <br><b> --movieFindYear --year </b><br><i>(shows all movies in the database with the year specified)</i><br>
