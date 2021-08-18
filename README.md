@@ -5,7 +5,7 @@
 <h2>Commands</h2>
 
 <br>
-<b>-add --name "Insert movie name" --year 2010 --rating 8 </b><br><i>(adds new movie, year and your rating)</i>
+<b>-add --name "Insert movie name" --year 2010 --rating 8 </b><br></i>(adds new movie, year and your rating)</i>
 
 <b>-showAll</b><br>i>(shows all information from all movies currently stored in your database)</i>
 
